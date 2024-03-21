@@ -117,4 +117,4 @@ document.addEventListener("DOMContentLoaded", btnEvents);
 //============ Calling Load Music
 loadMusic(songs[musicIndex]);
 
-alert(Happy Holi Anni);
+alert("Happy Holi Anni");
